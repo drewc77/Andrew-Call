@@ -134,7 +134,7 @@ QUESTIONS:
 The output of facility name and total revenue, sorted by revenue. Remember
 that there's a different cost for guests and members! */
 
-
+This is not right...
 SELECT f.name AS facility, .... AS tot_revenue (how to calculate using monthlymaintenance?)
 FROM Facilities AS f
 INNER JOIN Bookings AS b
